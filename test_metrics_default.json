@@ -1,0 +1,5 @@
+{
+  "ml_test_f1_micro_default": 0.06201550387596899,
+  "ml_test_f1_macro_default": 0.01702127659574468,
+  "sent_test_macro_f1": 0.7307132083602671
+}

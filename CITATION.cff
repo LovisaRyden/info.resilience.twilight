@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Do we live in the Twilight Zone? – a study of information resilience and filters of perception in times of climate change."
+version: "v1.0.0"
+date-released: "2025-10-26"
+repository-code: "https://github.com/LovisaRyden/info.resilience.twilight"
+type: software
+authors:
+  - name: "Lovisa Rydén"
+preferred-citation:
+  type: software
+  title: "Do we live in the Twilight Zone? – a study of information resilience and filters of perception in times of climate change."
+  authors:
+    - name: "Lovisa Rydén"
+  year: 2025
+  version: "v1.0.0"
+  url: "https://github.com/LovisaRyden/info.resilience.twilight"

@@ -1,0 +1,12 @@
+{
+  "Spam_flag": 7.0,
+  "irony": 224.0,
+  "distrust": 238.0,
+  "trust": 104.0,
+  "hostility": 77.0,
+  "concept_misinfo": 5.0,
+  "believe_misinfo": 54.0,
+  "Accuse_misinfo": 36.0,
+  "cogni_dis_manual": 3.0,
+  "discrim_manual": 52.0
+}

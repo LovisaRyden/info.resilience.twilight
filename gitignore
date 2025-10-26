@@ -1,0 +1,29 @@
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# Data & outputs (never commit raw data)
+data/
+outputs/
+logs/
+checkpoints/
+*.csv
+*.jsonl
+*.ndjson
+*.xlsx
+*.pt
+*.bin
+*.ckpt
+*.onnx
+
+# Notebooks temp
+.ipynb_checkpoints/
