@@ -18,6 +18,8 @@ Models: multi-task RoBERTa fine-tune + Twitter-adapted RoBERTa (irony/sentiment 
   - `merge_hybrid.py`
   - `prediction_meta.json`
   - `prediction_meta_hybrid.json`
+  - **Lexicon script**
+  - `Sentiment_analysis_lexicon.py`
 - **Configs**
   - `label_config.json`
   - `class_frequencies.json`
